@@ -6,10 +6,10 @@ const Projects = () => {
   const projects = [
     {
       id: 1,
-      title: "E-Commerce Mobile App",
-      description: "A modern mobile shopping experience with intuitive navigation, seamless checkout, and personalized recommendations.",
-      category: "Mobile UI/UX",
-      tags: ["Figma", "Prototyping", "User Research"],
+      title: "Ethiopian Recipe Chatbot",
+      description: "An intelligent chatbot that helps users discover and cook traditional Ethiopian dishes with step-by-step guidance and cultural insights.",
+      category: "AI/UX Design",
+      tags: ["Chatbot Design", "Cultural Heritage", "AI Interface"],
       image: "/placeholder.svg",
       status: "Coming Soon"
     },
