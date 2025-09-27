@@ -37,7 +37,7 @@ const Index = () => {
           <img 
             src={heroImage} 
             alt="UI/UX Design Background"
-            className="w-full h-full object-cover opacity-10"
+            className="w-full h-full object-cover opacity-20"
           />
           <div className="absolute inset-0 bg-gradient-hero"></div>
         </div>
