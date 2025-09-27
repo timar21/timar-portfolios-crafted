@@ -1,6 +1,6 @@
 import { GraduationCap, Briefcase } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
-import profilePhoto from "@/assets/profile-photo.jpg";
+import profilePhoto from "@/assets/profile-photo.png";
 
 const About = () => {
   return (
