@@ -39,8 +39,8 @@ const Contact = () => {
     {
       icon: Mail,
       label: "Email",
-      value: "timar.tizazu@example.com",
-      href: "mailto:timar.tizazu@example.com"
+      value: "timartizazu21@gmail.com",
+      href: "mailto:timartizazu21@gmail.com"
     },
     {
       icon: MapPin,
@@ -51,8 +51,8 @@ const Contact = () => {
     {
       icon: Phone,
       label: "Phone",
-      value: "+251 xxx xxx xxx",
-      href: "tel:+251xxxxxxxxx"
+      value: "+251 970293965",
+      href: "tel:+251970293965"
     }
   ];
 
@@ -66,7 +66,7 @@ const Contact = () => {
     {
       icon: Github,
       label: "GitHub",
-      href: "https://github.com/timar-tizazu",
+      href: "https://github.com/timar21",
       color: "hover:text-gray-900"
     }
   ];
